@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/solara/download",
+      "destination": "https://solara.s3.us-east-005.backblazeb2.com/Bootstrapper.exe",
+      "permanent": true
+    }
+  ]
+}
