@@ -6,13 +6,8 @@
       "permanent": true
     },
     {
-      "source": "/solara/telegram",
+      "source": "/telegram",
       "destination": "https://t.me/thesolara",
-      "permanent": true
-    },
-    {
-      "source": "/solara/discord",
-      "destination": "https://discord.gg/smokin",
       "permanent": true
     },
     {
