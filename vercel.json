@@ -4,6 +4,21 @@
       "source": "/solara/download",
       "destination": "https://solara.s3.us-east-005.backblazeb2.com/Bootstrapper.exe",
       "permanent": true
+    },
+    {
+      "source": "/solara/telegram",
+      "destination": "https://t.me/thesolara",
+      "permanent": true
+    },
+    {
+      "source": "/solara/discord",
+      "destination": "https://discord.gg/smokin",
+      "permanent": true
+    },
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/smokin",
+      "permanent": true
     }
   ]
 }
