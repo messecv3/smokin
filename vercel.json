@@ -14,6 +14,11 @@
       "source": "/discord",
       "destination": "https://discord.gg/smokin",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://discord.gg/smokin",
+      "permanent": true
     }
   ]
 }
