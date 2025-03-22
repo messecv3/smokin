@@ -5,14 +5,9 @@
       "destination": "https://discord.gg/rider",
       "permanent": true
     },
-        {
-      "source": "http://smokin.cc",
-      "destination": "https://smokin.cc",
-      "permanent": true
-    },
     {
-      "source": "http://www.smokin.cc",
-      "destination": "https://smokin.cc",
+      "source": "http://:host/*",
+      "destination": "https://:host/:path*",
       "permanent": true
     }
   ]
